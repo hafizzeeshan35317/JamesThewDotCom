@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\JamesThewdotcom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JamesThewdotcom.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\css\\animate.css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\animate.css\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\css\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\css\\morris.js\\css\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\morris.js\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\icofont\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\icofont\\css\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\auth\\Logo-small-bottom.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\Logo-small-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\auth\\logo-dark.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\auth\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\flags\\ENGLISH.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\flags\\ENGLISH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\flags\\FRANCE.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\flags\\FRANCE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\flags\\PORTO.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\flags\\PORTO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\flags\\SPAIN.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\flags\\SPAIN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\mega-menu\\02.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mega-menu\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\mega-menu\\03.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mega-menu\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\mega-menu\\04.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mega-menu\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\mega-menu\\05.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mega-menu\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\mega-menu\\06.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mega-menu\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\pattern2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\pattern2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\classie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\classie\\classie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\classie\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\common-pages.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\demo-12.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo-12.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\modernizr\\css-scrollbars.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\modernizr\\css-scrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\morris.js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\accordion\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\accordion\\accordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\chart\\morris\\morris-custom-chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\chart\\morris\\morris-custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\css\\export.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\dashboard\\custom-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\google-maps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\google-maps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\google-maps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\google-maps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\icon-modal.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\icon-modal.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\notification\\notification.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\notification\\notification.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\notification\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\todo\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\amcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\ammap.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\ammap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\ammap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\ammap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\continentsLow.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\continentsLow.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\continentsLow.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\continentsLow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\gauge.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\gauge.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\gauge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\light.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\light.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\light.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\pie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\pie.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\serial.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\serial.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\worldLow.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\worldLow.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\JamesThewdotcom\\JamesThewdotcom\\wwwroot\\Admin\\assets\\pages\\widget\\amchart\\worldLow.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\widget\\amchart\\worldLow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.JamesThewdotcom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.JamesThewdotcom.props",
+      "PackagePath": "build\\JamesThewdotcom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JamesThewdotcom.props",
+      "PackagePath": "buildMultiTargeting\\JamesThewdotcom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.JamesThewdotcom.props",
+      "PackagePath": "buildTransitive\\JamesThewdotcom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
